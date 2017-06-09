@@ -10,9 +10,10 @@ I'd like to share a sample projects for .NET Standard 2.0, .NET Core 2.0 and Cog
 *   Created as a project for [Visual Studio 2017 - 15.3 Preview 2](https://www.visualstudio.com/vs/preview/).
 *   WinFormOCR project needs to install .NET Framework 4.7.
 
-## To use OcrLib on .NET Standard 2.0 is needed to setup Azure Cognitive Services API Key:
+## To use ChackLib.OcrLib is needed to setup Azure Cognitive Services API Key:
 1. Go to [Cognitive Services: Computer Vision API](https://azure.microsoft.com/ja-jp/try/cognitive-services/?api=computer-vision) and sign up for computer vision API.
 2. Add environment variable "Vision_API_Subscription_Key" and set Computer vision key as value: e.g. **Vision_API_Subscription_Key=123456789abcdefghijklmnopqrstuvw**
+
 ## ChackLib nuget package:
 
 * ChackLib nuget package is available on Nuget Gallery: [http://www.nuget.org/packages/ChackLib/](http://www.nuget.org/packages/ChackLib/)
